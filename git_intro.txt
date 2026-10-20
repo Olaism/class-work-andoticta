@@ -1,0 +1,6 @@
+1) git init - Initialize a folder on your local system
+2) git add 'filename' - add filename to git
+3) git status - check the current status of the git folder
+4) git remote add origin your_repo_url - This connect your Github repository to your local file system
+5) git branch -M main - create a branch main
+6) git push -u origin master - make the local changes to Github
